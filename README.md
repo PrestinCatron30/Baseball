@@ -11,3 +11,12 @@
 
 * **OF Patrick Clohisy** (Braves No. 16 Prospect) Clohisy profiles as a 4th OF with double plus speed (70 Grade) and good defensive instincts. Offensively he features a average contact rate but consistently uses his elite speed to turn ground balls into base hits.
  
+### IV. Atlanta Braves Team Perspective 
+**Prioritize launch angle:** Once Atlanta acquires Winn, they should prioritize his depth in the box backing him off the plate to handle inside velocity and moving him slightly deeper to read breaking balls better. And hopefully unlocking a 13.0-15.0 launch angle
+
+
+### Financial Value & Team Control
+
+**Current Salary (2026)** **$799,450**
+**Arbitration Status** **Pre-Arb (Elgible in 2027)**
+**Free Agency Year** **2030 (UFA)**
