@@ -17,8 +17,8 @@
 
  ### Financial Value & Team Control
 
+| Financial Metric | Details |
+| :--- | :--- |
 | **Current Salary (2026)** | **$799,450** |
-
 | **Arbitration Status** | **Pre-Arb (Elgible in 2027)** |
-
 | **Free Agency Year** | **2030 (UFA)** |
