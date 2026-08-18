@@ -15,10 +15,10 @@
 **Prioritize launch angle:** Once Atlanta acquires Winn, they should prioritize his depth in the box backing him off the plate to handle inside velocity and moving him slightly deeper to read breaking balls better. And hopefully unlocking a 13.0-15.0 launch angle
 
 
-### Financial Value & Team Control
+ ### Financial Value & Team Control
 
-**Current Salary (2026)** **$799,450**
+| **Current Salary (2026)** | **$799,450** |
 
-**Arbitration Status** **Pre-Arb (Elgible in 2027)**
+| **Arbitration Status** | **Pre-Arb (Elgible in 2027)** |
 
-**Free Agency Year** **2030 (UFA)**
+| **Free Agency Year** | **2030 (UFA)** |
