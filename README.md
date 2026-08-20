@@ -27,3 +27,19 @@ https://baseballsavant.mlb.com/savant-player/masyn-winn-691026?stats=statcast-r-
 | **Current Salary (2026)** | **$799,450** |
 | **Arbitration Status** | **Pre-Arb (Elgible in 2029)** |
 | **Free Agency Year** | **2032 (UFA)** |
+
+
+### Financial Value & Projections
+
+To evaluate transaction risks under different player development outcomes, this model runs a sensitivity analysis projecting shortstop Alex Lodise developing into a reliable everyday player at a 1.5 WAR baseline.
+
+#### Trade Ledger & Surplus Balance Sheet
+
+| Player Name | Acquired By | Projected 3 Year WAR | Market Production Value | Projected Salary Cost | Net Surplus Value |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Masyn Winn (Acquired)** | Braves | 10.5 | $89,250,000 | $4,500,000 | **+$84,750,000** |
+| **Alex Lodise (Surrendered)** | Cardinals | 4.5 | $38,250,000 | $2,400,000 | **+$35,850,000** |
+| **Owen Murphy (Surrendered)** | Cardinals | 4.5 | $38,250,000 | $2,400,000 | **+$38,550,000** |
+| **Patrick Clohisy (Surrendered)** | Cardinals | 0.9 | $7,650,000 | $2,450,000 | **+$5,250,000** |
+
+
