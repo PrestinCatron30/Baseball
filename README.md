@@ -20,11 +20,11 @@ While trading a young shortstop like Masyn Winn is a risk for St. Louis this tra
 * Once St. Louis acquires Murphy they need to focus on him tunneling his breaking balls off of his 4 seam fastball specifically his gyro slider.
 
 * Once St. Louis acquires Lodise they need to work on his plate approach against breaking balls away.
-* 
+  
 * Once St. Louis acquires Clohisy they should prioritise his launch angle and ground ball rate to fully leverage his great speed.
 
 ### IV. Atlanta Braves Team Perspective 
-**Prioritize launch angle:** Once Atlanta acquires Winn, they should prioritize his depth in the box backing him off the plate to handle inside velocity and moving him slightly deeper to read breaking balls better. And hopefully unlocking a 13.0-15.0 launch angle which would lower his ground ball rate.
+* **Prioritize launch angle:** Once Atlanta acquires Winn, they should prioritize his depth in the box backing him off the plate to handle inside velocity and moving him slightly deeper to read breaking balls better. And hopefully unlocking a 13.0-15.0 launch angle which would lower his ground ball rate.
 https://baseballsavant.mlb.com/savant-player/masyn-winn-691026?stats=statcast-r-hitting-mlb
 
 
