@@ -16,8 +16,11 @@ https://prospectsavant.com/player/802117
 
 ### III. St. Louis Cardinals Team Perspective
 While trading a young shortstop like Masyn Winn is a risk for St. Louis this trade serves as a sell high opportunity to maximize organizational depth.
+
 Once St. Louis acquires Murphy they need to focus on him tunneling his breaking balls off of his 4 seam fastball specifically his gyro slider.
+
 Once St. Louis acquires Lodise they need to work on his plate approach against breaking balls away.
+
 Once St. Louis acquires Clohisy they should prioritise his launch angle and ground ball rate to fully leverage his great speed.
 
 ### IV. Atlanta Braves Team Perspective 
