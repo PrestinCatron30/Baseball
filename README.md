@@ -19,6 +19,7 @@ https://prospectsavant.com/player/802117
 https://baseballsavant.mlb.com/savant-player/masyn-winn-691026?stats=statcast-r-hitting-mlb
 
 
+
  ### Financial Value & Team Control
 
 | Financial Metric | Details |
