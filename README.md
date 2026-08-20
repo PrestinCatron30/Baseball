@@ -15,7 +15,8 @@ https://prospectsavant.com/player/702566
 https://prospectsavant.com/player/802117
  
 ### IV. Atlanta Braves Team Perspective 
-**Prioritize launch angle:** Once Atlanta acquires Winn, they should prioritize his depth in the box backing him off the plate to handle inside velocity and moving him slightly deeper to read breaking balls better. And hopefully unlocking a 13.0-15.0 launch angle
+**Prioritize launch angle:** Once Atlanta acquires Winn, they should prioritize his depth in the box backing him off the plate to handle inside velocity and moving him slightly deeper to read breaking balls better. And hopefully unlocking a 13.0-15.0 launch angle which would lower his ground ball rate.
+https://baseballsavant.mlb.com/savant-player/masyn-winn-691026?stats=statcast-r-hitting-mlb
 
 
  ### Financial Value & Team Control
